@@ -1,0 +1,8 @@
+
+pandas
+mysql-connector-python
+pydantic
+
+
+pandas==2.2.2
+mysql-connector-python==9.0.0
