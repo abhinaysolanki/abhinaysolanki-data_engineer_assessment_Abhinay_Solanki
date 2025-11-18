@@ -21,7 +21,7 @@ df = pd.read_json(r"C:\Users\singh\Downloads\100x\data\raw\input.json")
 print("JSON Loaded ✓")
 print(df.head(2))
 
-print("\n🔹 Columns in JSON:")
+print("\n Columns in JSON:")
 print(df.columns.tolist())
 
 
@@ -171,4 +171,4 @@ print("property_valuation table Load ✓")
 # ================================================================
 cursor.close()
 connection.close()
-print("\n🚀 ETL Completed Successfully")
+print("\n ETL Completed Successfully")
