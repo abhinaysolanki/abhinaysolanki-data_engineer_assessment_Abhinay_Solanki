@@ -38,7 +38,7 @@ project/
 │    ├── requirements.txt
 │    └── README.md
 │
-└── docker-compose.initial.yml  (optional)
+└── docker-compose.initial.yml  
 
 **Database Normalization (Final Schema)**
 
